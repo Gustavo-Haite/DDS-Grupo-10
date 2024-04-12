@@ -4786,6 +4786,35 @@
 							},
 							"lineStyle": 1,
 							"points": "964:363;1023:372"
+						},
+						{
+							"_type": "UMLNoteView",
+							"_id": "AAAAAAGO0HjhseUto5U=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 840,
+							"top": 528,
+							"width": 100,
+							"height": 129,
+							"text": "Se limita lo de los colores con un constructor (No sabiamos como diagramarlo)"
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAGO0Hjht+VslAQ=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGO0HjhseUto5U="
+							},
+							"tail": {
+								"$ref": "AAAAAAGOzelGodXlsYw="
+							},
+							"lineStyle": 1,
+							"points": "609:367;839:552"
 						}
 					]
 				},
