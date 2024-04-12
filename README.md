@@ -5,3 +5,52 @@
 * Haite Gulotta Gustavo
 * Jaralampidis Federico Nicolas
 * Rodriguez Juan Cruz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Estudiante de UADE el que lee
