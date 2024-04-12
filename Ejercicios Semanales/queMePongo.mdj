@@ -4737,10 +4737,10 @@
 							},
 							"font": "Arial;13;0",
 							"left": 928,
-							"top": 64,
+							"top": 56,
 							"width": 101.65625,
-							"height": 168,
-							"text": "Se carga desde la base de datos, para evitar inconsistencia de datos, no es enum porque la frecuencia al cambio puede ser alta"
+							"height": 181,
+							"text": "Se carga desde la base de datos, para evitar inconsistencia de datos, no es enum porque la frecuencia al cambio y la urgencia puede ser alta"
 						},
 						{
 							"_type": "UMLNoteLinkView",
@@ -4756,7 +4756,7 @@
 								"$ref": "AAAAAAGOzf+nFRh3xm0="
 							},
 							"lineStyle": 1,
-							"points": "844:171;927:156"
+							"points": "844:171;927:155"
 						},
 						{
 							"_type": "UMLNoteView",
@@ -4768,8 +4768,8 @@
 							"left": 1024,
 							"top": 296,
 							"width": 101.65625,
-							"height": 168,
-							"text": "Se carga desde la base de datos, para evitar inconsistencia de datos, no es enum porque la frecuencia al cambio puede ser alta"
+							"height": 181,
+							"text": "Se carga desde la base de datos, para evitar inconsistencia de datos, no es enum porque la frecuencia al cambio y la urgencia puede ser alta"
 						},
 						{
 							"_type": "UMLNoteLinkView",
@@ -4785,7 +4785,7 @@
 								"$ref": "AAAAAAGOzgLGzC31oAc="
 							},
 							"lineStyle": 1,
-							"points": "964:363;1023:372"
+							"points": "964:365;1023:376"
 						},
 						{
 							"_type": "UMLNoteView",
