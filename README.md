@@ -1,7 +1,7 @@
 # DDS-Grupo-10
 
-* Colman Damian Brian
-* Dalsasso Nahuel Facundo
+* Colman Brian Damian
+* Dalsasso Facundo Nahuel
 * Haite Gulotta Gustavo
-* Jaralampidis Nicolas Federico 
+* Jaralampidis Federico Nicolas
 * Rodriguez Juan Cruz
